@@ -31,14 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,dart,kotlin,swift,github,firebase,java,go,python,terraform,aws,githubactions,figma" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,dart,kotlin,swift,github,firebase,go,python" />
   </a>
 </p>
 
-### Studying
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vue,typescript,rails,ruby,figma" />
-  </a>
-</p>
